@@ -3,6 +3,7 @@
 Portfolio professionnel de Data Scientist spécialisée en IA appliquée à la santé.
 
 ## Accès
+- **Portfolio** : https://orou-guidou.github.io/
 - **LinkedIn** : https://www.linkedin.com/in/amirath-fara-orou-guidou-22063a1bb/
 - **Email** : amirath6.farah.orou.guidou@gmail.com
 
